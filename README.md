@@ -1,0 +1,1 @@
+Repo to recreate issue with orleans streams in singleton after 3+ update.
